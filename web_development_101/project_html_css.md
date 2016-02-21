@@ -590,6 +590,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Samuel L's easy solution](https://github.com/Codetyper-Samuel/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/Codetyper-Samuel/google-homepage/blob/master/index.html)
 * [fwda's easy solution] (https://github.com/gomesalexandre/googleclone) | [View in browser](https://htmlpreview.github.io/?https://github.com/gomesalexandre/googleclone/blob/master/index.html)
 * [mrexitium's easy solution] (https://github.com/mrexitium/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/mrexitium/google-homepage/blob/master/index.html)
+* [Shivam's easy solution] (https://github.com/piebytwo/google-homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/piebytwo/google-homepage/blob/master/index.html)
 * Add your solution above this line!
 
 ## Additional Resources
